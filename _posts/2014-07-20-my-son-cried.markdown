@@ -1,8 +1,7 @@
-
 ---
 layout: post
-title:  "My First Blog"
-date:   2014-07-17 15:51:30
+title:  "My son cried"
+date:   2014-07-20 21:57
 categories: family diary
 ---
 
