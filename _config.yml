@@ -2,8 +2,10 @@
 title: MyBlog
 email: fanchangyong@gmail.com
 description: "This is my personal blog,it's mainly for technology things."
-baseurl: "http://fanchangyong.github.io"
+baseurl: ""
 url: "http://fanchangyong.github.io"
+
+username: "fanchangyong"
 
 # Build settings
 markdown: kramdown
