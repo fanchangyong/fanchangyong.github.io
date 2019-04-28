@@ -1,0 +1,5 @@
+2019年第二季度，打算学习以下技术(按顺序学习，精力足够的话就学习下一个)
+- [Next.js](https://nextjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vue.js](https://cn.vuejs.org/index.html)
+- [ReactNative](https://facebook.github.io/react-native/)
